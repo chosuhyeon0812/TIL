@@ -55,3 +55,9 @@
 2. 개인 프로젝트의 소개 문서 작성
 3. 매일 학습한 내용 정리
 4. 마크다운을 이용한 블로그 운영
+
+<br>
+
+## Sourcetree (Git GUI 도구창)
+### Download : [Sourcetree](https://www.sourcetreeapp.com/)
+### 파일 주소를 복사하여 쉽게 commit, pull, push 가능, 어려운 git init... 이런거 안해도 됩니다^^
