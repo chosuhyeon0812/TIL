@@ -9,7 +9,7 @@
 5. 굵게 : **야하**
 6. 취소선 : ~~냐하~~
 <br>
-##📂 Git : 분산 버전 관리 프로그램
+## 📂 Git(분산 버전 관리 프로그램)
 
 - 의미 
 1. 버전 : 컴퓨터 소프트웨어의 특정 상태
@@ -37,7 +37,7 @@ git config --global user.name "(이름))" : 이메일과, 이름 생성
 4. git commit -m " " : 커밋
 5. git push -u origin : 배포
 <br>
-##📚 Github(Git이 커피라면, Github는 커피숍)
+## 📚 Github(Git이 커피라면, Github는 커피숍)
 
 - 기능
 1. Read.md 파일을 통해 오픈 소스의 공식 문서 작성
